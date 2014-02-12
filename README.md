@@ -16,12 +16,12 @@ a demo server so you can taste the app:
 P.S. Based on [Recorder JS][2]
 
 Created by: [@Jmlevick][3]  
-License: [Beerware][4]
+License: [Coffeeware][4]
 
 [![endorse](http://api.coderwall.com/jmlevick/endorsecount.png)](http://coderwall.com/jmlevick)
 
-  [1]: http://commondatastorage.googleapis.com/xenodecdn%2Fhtml-recorder-logo.png
+  [1]: https://spideroak.com/share/PBSW433EMVZXS43UMVWXG/78656e6f6465/var/CDN/xenodecdn/github-assets/html-recorder-logo.png
   [2]: https://github.com/mattdiamond/Recorderjs
   [3]: http://twitter.com/Jmlevick
-  [4]: http://en.wikipedia.org/wiki/Beerware
+  [4]: https://github.com/Jmlevick/coffeeware-license
 

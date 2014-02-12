@@ -17,6 +17,7 @@ P.S. Based on [Recorder JS][2]
 
 Created by: [@Jmlevick][3]  
 License: [Coffeeware][4]
+
 Demo: [http://xenodesystems.appspot.com/recorder.html][5]
 
 [![endorse](http://api.coderwall.com/jmlevick/endorsecount.png)](http://coderwall.com/jmlevick)
@@ -26,4 +27,3 @@ Demo: [http://xenodesystems.appspot.com/recorder.html][5]
   [3]: http://twitter.com/Jmlevick
   [4]: https://github.com/Jmlevick/coffeeware-license
   [5]: http://xenodesystems.appspot.com/recorder.html
-

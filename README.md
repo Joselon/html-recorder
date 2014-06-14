@@ -22,7 +22,7 @@ Demo: [http://xenodesystems.appspot.com/recorder.html][5]
 
 [![endorse](http://api.coderwall.com/jmlevick/endorsecount.png)](http://coderwall.com/jmlevick)
 
-  [1]: https://spideroak.com/share/PBSW433EMVZXS43UMVWXG/78656e6f6465/var/CDN/xenodecdn/github-assets/html-recorder-logo.png
+  [1]: https://spideroak.com/share/PBSW433EMVZXS43UMVWXG/78656e6f6465/srv/CDN/xenodecdn/github-assets/html-recorder-logo.png
   [2]: https://github.com/mattdiamond/Recorderjs
   [3]: http://twitter.com/Jmlevick
   [4]: https://github.com/Jmlevick/coffeeware-license
